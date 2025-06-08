@@ -3,8 +3,8 @@
 @use '../styles/components/nosso-espaco';
 @use '../styles/components/servicos';
 @use '../styles/components/desconto';
-
-
+@use '../styles/components/contatos';
+@use './components/_footer.sass';
 
 html {
   scroll-behavior: smooth;
